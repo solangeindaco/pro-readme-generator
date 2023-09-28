@@ -1,0 +1,27 @@
+{
+  "name": "pro-readme-generator",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Solange Indaco",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solangeindaco/pro-readme-generator.git"
+  },
+  "keywords": [
+    "professional",
+    "readme",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/solangeindaco/pro-readme-generator/issues"
+  },
+  "homepage": "https://github.com/solangeindaco/pro-readme-generator#readme"
+}
