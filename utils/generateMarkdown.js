@@ -1,9 +1,11 @@
-const generateREADME = ({ title, description, installation, usage, credits, license}) =>`
+const generateREADME = ({ title, description, installation, usage, contributing, tests, license, githubUsername, email}) =>`
   # ${title}
 
   ## Description
   
   ${description}
+
+  ## Table of Contents
 
   ## Installation
 
@@ -11,15 +13,25 @@ const generateREADME = ({ title, description, installation, usage, credits, lice
 
   ## Usage
 
-  ${usage}
-
-  ## Credits
-
-  ${credits}    
+  ${usage}   
 
   ## License
 
   ${license}
+
+  ## Contributing
+
+  ${contributing}
+  
+  ## Tests
+
+  ${tests}
+  
+  ## Questions
+
+  ${githubUsername}
+
+  ${email}
 
   `;
 

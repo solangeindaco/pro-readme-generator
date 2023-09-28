@@ -28,13 +28,28 @@ const questions = [
     },
     {
       type: 'input',
-      name: 'credits',
+      name: 'contributing',
       message: 'Who were your collaborators?',
+    },
+    {
+      type: 'input',
+      name: 'tests',
+      message: 'Please provide test instructions:',
     },
     {
       type: 'input',
       name: 'license',
       message: 'Which license do you use?',
+    },
+    {
+      type: 'input',
+      name: 'githubUsername',
+      message: 'What is your GitHub username?',
+    },
+    {
+      type: 'input',
+      name: 'email',
+      message: 'What is your email address?',
     },
   ];
 
@@ -46,7 +61,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
-    .then((answers) => writeToFile('README_USER.md', answers))
+    .then((answers) => writeToFile('../README_USER.md', answers))
     .then(() => console.log('Successfully wrote to README.md'))
     .catch((err) => console.error(err));
 }

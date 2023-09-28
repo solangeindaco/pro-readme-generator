@@ -3,22 +3,34 @@
 
   ## Description
   
-  description
+  cocinar
+
+  ## Table of Contents
 
   ## Installation
 
-  installation 
+  installation instructions 
 
   ## Usage
 
-  instructions
-
-  ## Credits
-
-  julian     
+  usage instructions   
 
   ## License
 
   mit
+
+  ## Contributing
+
+  collaborators contributing
+  
+  ## Tests
+
+  test instrucctions
+  
+  ## Questions
+
+  undefined
+
+  soslnag@gmail
 
   
