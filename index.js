@@ -24,7 +24,7 @@ const questions = [
     {
       type: 'input',
       name: 'usage',
-      message: 'Provide instructions and examples for use.',
+      message: 'Provide instructions for use.',
     },
     {
       type: 'input',
@@ -37,9 +37,10 @@ const questions = [
       message: 'Please provide test instructions:',
     },
     {
-      type: 'input',
+      type: 'list',
       name: 'license',
       message: 'Which license do you use?',
+      choices: ["MIT", "", "Charmander"]
     },
     {
       type: 'input',
@@ -61,7 +62,7 @@ function writeToFile(fileName, data) {
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
-    .then((answers) => writeToFile('../README_USER.md', answers))
+    .then((answers) => writeToFile('./user_readme/README.md', answers))
     .then(() => console.log('Successfully wrote to README.md'))
     .catch((err) => console.error(err));
 }

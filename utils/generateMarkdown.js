@@ -7,6 +7,13 @@ const generateREADME = ({ title, description, installation, usage, contributing,
 
   ## Table of Contents
 
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
+
   ## Installation
 
   ${installation} 
