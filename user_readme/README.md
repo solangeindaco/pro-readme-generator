@@ -1,9 +1,9 @@
 
-  # generator
+  # title
 
   ## Description
   
-  description
+  descrip
 
   ## Table of Contents
 
@@ -16,7 +16,7 @@
 
   ## Installation
 
-  instructions 
+  installation 
 
   ## Usage
 
@@ -24,11 +24,11 @@
 
   ## License
 
-  MIT
+  GNU General Public License version 2
 
   ## Contributing
 
-  julian
+  julian and mica
   
   ## Tests
 
@@ -36,8 +36,8 @@
   
   ## Questions
 
-  solangeindaco
-
   soslsl
+
+  skdkkfdkl
 
   

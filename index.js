@@ -4,6 +4,13 @@ const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
 const { writeFile } = fs.promises;
 
+const licenses = [
+  'Apache License, Version 2.0', 
+  'Common Development and Distribution License 1.0',
+  'Eclipse Public License version 2.0',
+  'GNU General Public License version 2',
+  'The MIT License'];
+
 // TODO: Create an array of questions for user input
 const questions = [
     {
@@ -40,7 +47,7 @@ const questions = [
       type: 'list',
       name: 'license',
       message: 'Which license do you use?',
-      choices: ["MIT", "", "Charmander"]
+      choices: licenses
     },
     {
       type: 'input',
