@@ -2,14 +2,8 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown');
+const licenses = generateMarkdown.licensesChoices;
 const { writeFile } = fs.promises;
-
-const licenses = [
-  'Apache License, Version 2.0', 
-  'Common Development and Distribution License 1.0',
-  'Eclipse Public License version 2.0',
-  'GNU General Public License version 2',
-  'The MIT License'];
 
 // TODO: Create an array of questions for user input
 const questions = [
@@ -44,10 +38,10 @@ const questions = [
       message: 'Please provide test instructions:',
     },
     {
-      type: 'list',
+      type: 'rawlist',
       name: 'license',
       message: 'Which license do you use?',
-      choices: licenses
+      choices: licenses,
     },
     {
       type: 'input',
@@ -63,7 +57,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    writeFile(fileName, generateMarkdown(data));
+  writeFile(fileName, generateMarkdown.generateMarkdown(data));
 }
 
 // TODO: Create a function to initialize app
