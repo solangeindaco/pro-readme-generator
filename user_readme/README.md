@@ -1,7 +1,7 @@
 
   # ddd
 
-  ![License: EPL 1.0](https://img.shields.io/badge/License-EPL-red.svg)
+  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache2.0-green.svg)
 
   ## Description
   
@@ -18,7 +18,7 @@
 
   ## Installation
 
-  dd 
+  ddd 
 
   ## Usage
 
@@ -26,7 +26,7 @@
 
   ## License
 
-  Licensed under the [EPL](https://opensource.org/licenses/EPL-1.0) license.
+  Licensed under the [Apache2.0](https://opensource.org/licenses/Apache-2.0) license.
 
   ## Contributing
 
@@ -34,12 +34,12 @@
   
   ## Tests
 
-  dd
+  ddd
   
   ## Questions
 
   [Github profile](https://github.com/ddd)
 
-  dd
+  For more information you can reach me at: ddd
 
   

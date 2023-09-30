@@ -59,7 +59,7 @@ const generateREADME = ({ title, description, installation, usage, contributing,
 
   [Github profile](https://github.com/${githubUsername})
 
-  ${email}
+  For more information you can reach me at: ${email}
 
   `;
 
@@ -68,7 +68,7 @@ const generateREADME = ({ title, description, installation, usage, contributing,
 function renderLicenseBadge(license) {
   let badge = '';
   if (license !== undefined) {
-    badge = `![License: ${license.acronym} ${license.version}](https://img.shields.io/badge/License-${license.acronym} ${license.version}-${license.badgeColor}.svg)`;
+    badge = `![License: ${license.acronym} ${license.version}](https://img.shields.io/badge/License-${license.acronym}${license.version}-${license.badgeColor}.svg)`;
   }
   return badge;
 }
@@ -90,7 +90,7 @@ function renderLicenseSection(license) {
   console.log("licence: " + license);
   let licenseSection = '';
   if (license !== undefined) {
-    licenseSection = `Licensed under the [${license.acronym}](${renderLicenseLink(license)}) license.`
+    licenseSection = `Licensed under the [${license.acronym} ${license.version}](${renderLicenseLink(license)}) license.`
   }
   return licenseSection;
 }
