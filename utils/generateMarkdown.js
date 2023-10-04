@@ -84,7 +84,6 @@ function renderLicenseLink(license) {
 // Returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  console.log("licence: " + license);
   let licenseSection = '';
   if (license !== undefined) {
     licenseSection = `Licensed under the [${license.acronym} ${license.version}](${renderLicenseLink(license)}) license.`
