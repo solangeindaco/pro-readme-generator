@@ -1,11 +1,11 @@
 
-  # ddd
+  # ggg
 
-  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache2.0-green.svg)
+  ![License: GPL 2](https://img.shields.io/badge/License-GPL2-blue.svg)
 
   ## Description
   
-  ddd
+  gg
 
   ## Table of Contents
 
@@ -18,28 +18,28 @@
 
   ## Installation
 
-  ddd 
+  gg 
 
   ## Usage
 
-  dd   
+  gg   
 
   ## License
 
-  Licensed under the [Apache2.0](https://opensource.org/licenses/Apache-2.0) license.
+  Licensed under the [GPL 2](https://opensource.org/licenses/GPL-2) license.
 
   ## Contributing
 
-  dd
+  gg
   
   ## Tests
 
-  ddd
+  gg
   
   ## Questions
 
-  [Github profile](https://github.com/ddd)
+  [Github profile](https://github.com/gg)
 
-  For more information you can reach me at: ddd
+  For more information you can reach me at: gg
 
   
