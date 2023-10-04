@@ -18,17 +18,17 @@ Repository URL: https://github.com/solangeindaco/pro-readme-generator
 
 The following image shows the web application's appearance and functionality:
 
-![Professional Readme File Generator video](https://drive.google.com/file/d/1rvkC-XBeOKQ3MKVKiq10M-gPr86KDnT0/view)
+[Professional Readme File Generator video](https://drive.google.com/file/d/1rvkC-XBeOKQ3MKVKiq10M-gPr86KDnT0/view)
 
 
 ## Credits
 
 To create this application, I used the following tutorials:  
     - Node.js: https://nodejs.org/docs/latest/api/documentation.html    
-    - Inquirer package: https://www.npmjs.com/package/inquirer              
-    - fs : https://node.readthedocs.io/en/latest/api/fs/      
-    - Shields: https://shields.io/  
-    - Npm: https://docs.npmjs.com/about-npm      
+    - Inquirer package: https://www.npmjs.com/package/inquirer                 
+    - fs : https://node.readthedocs.io/en/latest/api/fs/         
+    - Shields: https://shields.io/    
+    - Npm: https://docs.npmjs.com/about-npm          
 
 ## License
 
