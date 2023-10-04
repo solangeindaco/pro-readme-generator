@@ -16,7 +16,7 @@ Repository URL: https://github.com/solangeindaco/pro-readme-generator
 
 ## Usage
 
-The following image shows the web application's appearance and functionality:
+The following video shows the web application's appearance and functionality:
 
 [Professional Readme File Generator video](https://drive.google.com/file/d/1rvkC-XBeOKQ3MKVKiq10M-gPr86KDnT0/view)
 
