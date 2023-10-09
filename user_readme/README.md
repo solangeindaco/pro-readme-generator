@@ -1,11 +1,11 @@
 
   # Project Title
 
-  ![License: GPL 2](https://img.shields.io/badge/License-GPL2-blue.svg)
+  ![License: EPL 1.0](https://img.shields.io/badge/License-EPL1.0-red.svg)
 
   ## Description
   
-  Project Description
+  Description
 
   ## Table of Contents
 
@@ -22,15 +22,15 @@
 
   ## Usage
 
-  Usage Information   
+  Usage information   
 
   ## License
 
-  Licensed under the [GPL 2](https://opensource.org/licenses/GPL-2) license.
+  Licensed under the [EPL 1.0](https://opensource.org/licenses/EPL-1.0) license.
 
   ## Contributing
 
-  Contributions guideles
+  Contribution Guidelines
   
   ## Tests
 
