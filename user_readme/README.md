@@ -1,7 +1,7 @@
 
-  # Project Title
+  # Project title
 
-  ![License: EPL 1.0](https://img.shields.io/badge/License-EPL1.0-red.svg)
+  ![License: MIT ](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
   
@@ -18,23 +18,23 @@
 
   ## Installation
 
-  Installation instructions 
+  Instrucctions of installation 
 
   ## Usage
 
-  Instrucctions of use   
+  Instructions of use   
 
   ## License
 
-  Licensed under the [EPL 1.0](https://opensource.org/licenses/EPL-1.0) license.
+  Licensed under the [MIT ](https://opensource.org/licenses/MIT) license.
 
   ## Contributing
 
-  Collaborator 1, Collaborator 2
+  Collaborator 1 and collaborator 2
   
   ## Tests
 
-  Test instructions
+  Test instrucctions
   
   ## Questions
 
