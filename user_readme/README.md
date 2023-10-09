@@ -1,11 +1,11 @@
 
-  # Project title
+  # Project Title
 
-  ![License: MIT ](https://img.shields.io/badge/License-MIT-yellow.svg)
+  ![License: GPL 2](https://img.shields.io/badge/License-GPL2-blue.svg)
 
   ## Description
   
-  Description of the project
+  Project Description
 
   ## Table of Contents
 
@@ -18,23 +18,23 @@
 
   ## Installation
 
-  Instrucctions of installation 
+  Installation Instructions 
 
   ## Usage
 
-  Instructions of use   
+  Usage Information   
 
   ## License
 
-  Licensed under the [MIT ](https://opensource.org/licenses/MIT) license.
+  Licensed under the [GPL 2](https://opensource.org/licenses/GPL-2) license.
 
   ## Contributing
 
-  Collaborator 1 and collaborator 2
+  Contributions guideles
   
   ## Tests
 
-  Test instrucctions
+  Test instructions
   
   ## Questions
 

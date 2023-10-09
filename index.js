@@ -30,7 +30,7 @@ const questions = [
     {
       type: 'input',
       name: 'contributing',
-      message: 'Who were your collaborators?',
+      message: 'How a developer can contribute to the project?',
     },
     {
       type: 'input',
