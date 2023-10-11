@@ -1,11 +1,11 @@
 
   # Project Title
 
-  ![License: EPL 1.0](https://img.shields.io/badge/License-EPL1.0-red.svg)
+  ![License: cddl 1](https://img.shields.io/badge/License-cddl1-orange.svg)
 
   ## Description
   
-  Description
+  Project Description
 
   ## Table of Contents
 
@@ -18,15 +18,15 @@
 
   ## Installation
 
-  Installation Instructions 
+  Installation instructions 
 
   ## Usage
 
-  Usage information   
+  Usage Instructions   
 
   ## License
 
-  Licensed under the [EPL 1.0](https://opensource.org/licenses/EPL-1.0) license.
+  Licensed under the [cddl 1](https://opensource.org/licenses/cddl-1) license.
 
   ## Contributing
 
@@ -34,7 +34,7 @@
   
   ## Tests
 
-  Test instructions
+  Test Instructions
   
   ## Questions
 
